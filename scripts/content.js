@@ -1,0 +1,1 @@
+console.log("Thunderbird content script loaded!"); 
